@@ -20,38 +20,39 @@ Certificacion en lengua inglesa, Universidad de San Diego
   
 Idiomas <br>
   
-Español
+Español<br>
 Ingles
 Frances
 Portuges 
 
 Tarea 1
   
-  Tarea 1 <a href="C:\Users\Ruiz\Desktop\Tarea 1.JPG")> Tar1 </a>
+  Tarea 1 <a img src="C:\Users\Ruiz\Desktop\Tarea 1.JPG")> Tar1 </a>
     
-  Tarea 2  
+Tarea 2  
    
-  Tarea 2 <a href="C:\Users\Ruiz\Desktop\Tarea 2.JPG")> Tar2 </a>
+  Tarea 2 <a img src="C:\Users\Ruiz\Desktop\Tarea 2.JPG")> Tar2 </a>
   
-  Tarea 3 
+Tarea 3 
   
-  Tarea 3 <a href="C:\Users\Ruiz\Desktop\Tarea 3.JPG")> Tar3 </a>
+  Tarea 3 <a img src="C:\Users\Ruiz\Desktop\Tarea 3.JPG")> Tar3 </a>
              
-  Tarea 4 y 5
+Tarea 4 y 5
              
-  Tarea 4 y 5 <a href="C:\Users\Ruiz\Desktop\Tarea 4 y 5.JPG")> Tar4-5 </a>    
+  Tarea 4 y 5 <a img src="C:\Users\Ruiz\Desktop\Tarea 4 y 5.JPG")> Tar4-5 </a>    
   
-  Tarea 6
+Tarea 6
   
-  Tarea 6 <a href="C:\Users\Ruiz\Desktop\Tarea 6.JPG")> Tar6 </a>
+  Tarea 6 <a img src="C:\Users\Ruiz\Desktop\Tarea 6.JPG")> Tar6 </a>
              
-  Tarea 7
+Tarea 7
   
-             Tarea 7 <a href="C:\Users\Ruiz\Desktop\Tarea 7.JPG")> Tar7 </a>
+  Tarea 7 <a img src="C:\Users\Ruiz\Desktop\Tarea 7.JPG")> Tar7 </a>
 
-   Tarea 8
+Tarea 8
   
-             Tarea 8 <a href="C:\Users\Ruiz\Desktop\Tarea 8.JPG")> Tar8 </a>
+  Tarea 8 <a img src="C:\Users\Ruiz\Desktop\Tarea 8.JPG")> Tar8 </a>
+  
 </body>
 </html>  
 
