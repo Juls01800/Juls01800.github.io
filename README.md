@@ -5,7 +5,7 @@
 </head>
 <body>
 
-  <font face="Architects Daughter">
+  <font face="architects daughter">
 
   <style>
     #Principal{
@@ -81,8 +81,8 @@
      <fieldset>
       <legend>Parcial 1 Actividades Colab</legend>
       <ul>
-        Actividad | 1<a href="(https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f)"> Actividad 1 </a><br>
-        Actividad | 2<a href"https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f"> Actividad 2 </a><br>
+        Actividad | 1<a href="https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f"> Actividad 1 </a><br>
+        Actividad | 2<a href="https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f"> Actividad 2 </a><br>
         Actividad | 3<a href="https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f"> Actividad 3 </a><br>
         Actividad | 4<a href="https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f"> Actividad 4 </a><br>
         Actividad | 5<a href="(https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f)"> Tarea 5 </a><br>
