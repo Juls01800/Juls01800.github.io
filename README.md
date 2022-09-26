@@ -1,58 +1,102 @@
-# Juls01800.github.io
+<!DOCTYPE html>
 <html>
+<head>
+    <title>Curriculum Vitae</title>
+</head>
 <body>
-Julian Francisco, LTIO <br>
-  
-Experiencia laboral <br>
-  
-Educacion <br>
-  
-Formativo Escolar Serradell, Kinder
-Formativo Escolar Serradell, Primaria
-Formativo Escolar Serradell, Secundaria 
-Formativo Escolar Serradell, Bachillerato
-  
-Universidad Veracruzana, FNT  
 
-Premios y certificaciones <br>
+  <font face="Architects Daughter">
 
-Certificacion en lengua inglesa, Universidad de San Diego
-  
-Idiomas <br>
-  
-Español<br>
-Ingles
-Frances
-Portuges 
+  <style>
+    #Principal{
+      border: solid 3px blue;
+      width: 60%;
+      margin: 0 auto;
+      padding: 5px;
+    }
 
-Tarea 1
+    fieldset{
+      margin-bottom: 10px;
+    }
+
+    legend{
+      border: solid 2px black;
+      padding: 5px;
+      font-weight: bolder;
+      border-radius: 10px;
+    }
+
   
-  Tarea 1 <a img src="C:\Users\Ruiz\Desktop\Tarea 1.JPG")> Tar1 </a>
+  </style>
+ 
+    <h1>Julián Fracisco Ruiz Ramírez</h1>
+
+       <fieldset>
+        <legend>Datos Generales</legend>
+        <ul>
+          <li>Teléfono: 271-316-5762</li>
+          <li>Contacto: julianfruizramirez@gmail.com</li>
+          <li>Lugar: México - Veracruz</li>
+          <li>Idiomas: Español, Ingles, Frances, Portugués</li>
+        </ul>
+    </fieldset>
+
+    <fieldset>
+       <legend>Habilidades</legend>
+        <ul>
+          <li>Trabajar bajo presión</li>
+          <li>Facil entendimiento de actividades</li>
+          <li>Fácil retención de información</li>
+        </ul>
+    </fieldset>
+
+    <fieldset>
+      <legend>Pasatiempos</legend>
+      <ul>
+        <li>Jugar videojuegos</li>
+        <li>Ver caricaturas</li>
+        <li>Escuchar musica</li>
+        <li>Practicar danza folclorica</li>
+      </ul>
+    </fieldset>
+
+    <fieldset>
+      <legend>Experiencia Laboral</legend>
+      <br>
+      Maestro de ingles en un curso de verano 2021
+      </ul>
+    </fieldset>
+
+    <fieldset>
+      <legend>Formación Academica</legend>
+      <ul>
+        <li>"Preescolar: Formativo Escolar Serradell"</li>
+        <li>"Primaria: Formativo Escolar Serradell"</li>
+        <li>"Secundaria: Formativo Escolar Serradell"</li> 
+        <li>"Bachillerato: Formativo Escolar Serradell"</li>
+  
+      </ul>
+    </fieldset>
     
-Tarea 2  
-   
-  Tarea 2 <a img src="C:\Users\Ruiz\Desktop\Tarea 2.JPG")> Tar2 </a>
-  
-Tarea 3 
-  
-  Tarea 3 <a img src="C:\Users\Ruiz\Desktop\Tarea 3.JPG")> Tar3 </a>
-             
-Tarea 4 y 5
-             
-  Tarea 4 y 5 <a img src="C:\Users\Ruiz\Desktop\Tarea 4 y 5.JPG")> Tar4-5 </a>    
-  
-Tarea 6
-  
-  Tarea 6 <a img src="C:\Users\Ruiz\Desktop\Tarea 6.JPG")> Tar6 </a>
-             
-Tarea 7
-  
-  Tarea 7 <a img src="C:\Users\Ruiz\Desktop\Tarea 7.JPG")> Tar7 </a>
+     <fieldset>
+      <legend>Parcial 1 Actividades Colab</legend>
+      <ul>
+        Actividad | 1<a href="(https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f)"> Actividad 1 </a><br>
+        Actividad | 2<a href"https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f"> Actividad 2 </a><br>
+        Actividad | 3<a href="https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f"> Actividad 3 </a><br>
+        Actividad | 4<a href="https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f"> Actividad 4 </a><br>
+        Actividad | 5<a href="(https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f)"> Tarea 5 </a><br>
+        Actividad | 6<a href="https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f"> Actividad 6 </a><br>
+        Actividad | 7<a href="https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f"> Actividad 7 </a><br>
+        Actividad | 8<a href="https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f"> Actividad 8 </a><br>
+      </ul>
+    </fieldset>
 
-Tarea 8
-  
-  Tarea 8 <a img src="C:\Users\Ruiz\Desktop\Tarea 8.JPG")> Tar8 </a>
-  
+
+</div>
+
+</font>
+
+
 </body>
-</html>  
-
+<html>
