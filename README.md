@@ -81,14 +81,14 @@
      <fieldset>
       <legend>Parcial 1 Actividades Colab</legend>
       <ul>
-        Actividad | 1<a href="https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f"> Actividad 1 </a><br>
-        Actividad | 2<a href="https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f"> Actividad 2 </a><br>
-        Actividad | 3<a href="https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f"> Actividad 3 </a><br>
-        Actividad | 4<a href="https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f"> Actividad 4 </a><br>
-        Actividad | 5<a href="(https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f)"> Tarea 5 </a><br>
-        Actividad | 6<a href="https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f"> Actividad 6 </a><br>
-        Actividad | 7<a href="https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f"> Actividad 7 </a><br>
-        Actividad | 8<a href="https://gist.github.com/Juls01800/59a711a2f4bd1fb47cf8bb0363d3ac3f"> Actividad 8 </a><br>
+        Actividad | 1<a href="https://github.com/Juls01800/Juls01800.github.io/blob/main/Tareas%20programaci%C3%B3n/Tarea%201.JPG"> Actividad 1 </a><br>
+        Actividad | 2<a href="https://github.com/Juls01800/Juls01800.github.io/blob/main/Tareas%20programaci%C3%B3n/Tarea%202.JPG"> Actividad 2 </a><br>
+        Actividad | 3<a href="https://github.com/Juls01800/Juls01800.github.io/blob/main/Tareas%20programaci%C3%B3n/Tarea%203.JPG"> Actividad 3 </a><br>
+        Actividad | 4<a href="https://github.com/Juls01800/Juls01800.github.io/blob/main/Tareas%20programaci%C3%B3n/Tarea%204%20y%205.JPG"> Actividad 4 </a><br>
+        Actividad | 5<a href="https://github.com/Juls01800/Juls01800.github.io/blob/main/Tareas%20programaci%C3%B3n/Tarea%204%20y%205.JPG?raw=true)"> Actividad 5 </a><br>
+        Actividad | 6<a href="https://github.com/Juls01800/Juls01800.github.io/blob/main/Tareas%20programaci%C3%B3n/Tarea%206.JPG"> Actividad 6 </a><br>
+        Actividad | 7<a href="https://github.com/Juls01800/Juls01800.github.io/blob/main/Tareas%20programaci%C3%B3n/Tarea%206.JPG"> Actividad 7 </a><br>
+        Actividad | 8<a href="https://github.com/Juls01800/Juls01800.github.io/blob/main/Tareas%20programaci%C3%B3n/Tarea%208.JPG"> Actividad 8 </a><br>
       </ul>
     </fieldset>
 
